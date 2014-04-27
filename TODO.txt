@@ -1,0 +1,3 @@
+- Gestion espacement des paragraphes (réduire)
+- Gestion dialogues
+- Gestion phrase isolée
