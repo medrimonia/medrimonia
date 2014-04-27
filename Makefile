@@ -8,4 +8,4 @@ all: book.pdf
 book.pdf: ${TEX_SOURCES}
 
 clean:
-	rm *.aux *.snm *.toc *.log
+	rm -f *.aux *.snm *.toc *.log *~
